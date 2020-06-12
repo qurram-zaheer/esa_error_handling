@@ -1,0 +1,17 @@
+{
+  "name": "error_handling",
+  "version": "1.0.0",
+  "description": "Module 2 | ESA",
+  "main": "index.js",
+  "author": "Qurram Zaheer",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "redis": "^3.0.2"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
